@@ -13,7 +13,8 @@ body {
 
 /* Navbar section */
 #poemid{
-    font-size: 2.5vh;
+    font-size: 2.15vh;
+	text-align: center;
 }
 .poem{
     font-size: xx-large;
