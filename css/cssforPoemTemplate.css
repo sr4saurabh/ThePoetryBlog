@@ -12,6 +12,13 @@ body {
 /* --> https://codepen.io/abdosteif/pen/bRoyMb?editors=1100*/
 
 /* Navbar section */
+#poemid{
+    font-size: 2.5vw;
+}
+.poem{
+    font-size: xx-large;
+}
+
 .centered {
     position: absolute;
     top: 50%;
